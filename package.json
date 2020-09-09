@@ -1,0 +1,22 @@
+{
+  "name": "recipebook",
+  "version": "1.0.0",
+  "description": "Recipe manager",
+  "main": "app.js",
+  "scripts": {
+    "satrt": "nodemon app"
+  },
+  "author": "HRITHIKA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consolidate": "^0.15.1",
+    "dust": "^0.3.0",
+    "dustjs-helpers": "^1.7.4",
+    "dustjs-linkedin": "^2.7.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "pg": "^8.3.3",
+    "pg-pool": "^3.2.1"
+  }
+}
